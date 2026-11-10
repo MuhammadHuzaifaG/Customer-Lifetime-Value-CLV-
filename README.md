@@ -20,8 +20,6 @@ Mid-sized e-commerce and retail operations routinely track aggregate performance
 
 ---
 
-## Track Alignment
-
 This project is built for the **Predictive Analytics & Customer Intelligence Track**. It addresses real-world transactional datasets by converting unstructured purchase logs into structured behavioral metrics, supervised training datasets, and practical prioritization strategies.
 
 ---
