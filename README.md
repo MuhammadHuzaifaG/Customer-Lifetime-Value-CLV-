@@ -8,6 +8,8 @@ By combining RFM (Recency, Frequency, Monetary) behavioral segmentation, heurist
 
 ---
 
+<img src='https://github.com/MuhammadHuzaifaG/Customer-Lifetime-Value-CLV-/blob/main/dashboard/dash.PNG' />
+
 ## Main Challenge
 
 Mid-sized e-commerce and retail operations routinely track aggregate performance indicators such as gross revenue, order volume, and average basket size. However, leadership often lacks granular visibility into customer distribution—specifically:
@@ -23,6 +25,8 @@ Mid-sized e-commerce and retail operations routinely track aggregate performance
 This project is built for the **Predictive Analytics & Customer Intelligence Track**. It addresses real-world transactional datasets by converting unstructured purchase logs into structured behavioral metrics, supervised training datasets, and practical prioritization strategies.
 
 ---
+
+<img src='https://github.com/MuhammadHuzaifaG/Customer-Lifetime-Value-CLV-/blob/main/charts/revenue.PNG' />
 
 ## Project Description
 
